@@ -12,6 +12,7 @@ This is my first `HTML`, *CSS*, and **JS** project. I will be using Git to manag
     </title>
   </head>
   <body>
+  # Navod Wijesooriya
     ... Content goes here ...
   </body>
 </html>
